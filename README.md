@@ -24,7 +24,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 ## Technologies
 This project was developed using the following technologies:
 
-- [Elixix](https://elixir-lang.org/)
+- [Elixir](https://elixir-lang.org/)
 - [Phoenix](https://phoenixframework.org/)
 - [GraphQL](https://graphql.org)
 </div>
